@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoneyM</string>
+    <string name="k">Çıkış</string>
+    <string name="hesap_bilgisi">Hesap Bilgisi</string>
+    <string name="toplam_b_t_e_miktar_0">Toplam bütçe miktarı: 0TL </string>
+    <string name="bug_n_n_istatistikleri">Günlük Analizim</string>
+    <string name="toplam_harcama_00_00">Toplam Harcama: 00.00</string>
+
+    <string-array name="items">
+        <item>Kategori Seçiniz</item>
+        <item>Ulaşım</item>
+        <item>Yemek</item>
+        <item>Ev</item>
+        <item>Eğlence</item>
+        <item>Eğitim</item>
+        <item>Bağış</item>
+        <item>Giyim</item>
+        <item>Sağlık</item>
+        <item>Kişisel</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>
